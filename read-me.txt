@@ -1,0 +1,35 @@
+Here are the 5 tasks for you to complete.
+
+Positive or Negative
+Ask the user to enter an integer. Use an if statement to 
+check if the number is positive or negative, 
+and display a message like "The number is positive" or 
+"The number is negative."
+
+Check for Even or Odd
+Prompt the user to input an integer. Use an if statement to 
+check if the number is even or odd. 
+Display a message such as "The number is even" or "The number is odd."
+
+Simple Voting Eligibility
+Ask the user for their age and check if they are eligible to vote. 
+(Consider 18 as the voting age.) Display either 
+"You are eligible to vote" or "You are not eligible to vote."
+
+Basic Grade Checker
+Request a score from the user (0 to 100). 
+Use if and elif statements to assign a grade based on the score:
+
+90 and above: "Grade A"
+80-89: "Grade B"
+70-79: "Grade C"
+Below 70: "Fail"
+Guess the Secret Number
+Set a secret number in the code (e.g., 
+secret_number = 7). Ask the user to guess the number. 
+Use if statements to check if their guess is correct, 
+too high, or too low. Display a message such as "Correct!",
+"Too high!", or "Too low!"
+
+If you wish you can use the starter code here, or
+alternatively you can do your own. Create a new file for each task
